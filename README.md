@@ -1,4 +1,4 @@
-# 📖 Real-time-Bangladeshi-Vehicle-License-Plate-Detection-Tracking
+# 🚗 Real-time-Bangladeshi-Vehicle-License-Plate-Detection-and-Tracking
 ---
 
 ![Demo of License Plate Detection](assets/demo.gif)
