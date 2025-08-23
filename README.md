@@ -18,7 +18,7 @@ A **real-time license plate recognition (LPR)** system built with YOLO, EasyOCR,
 
 This project allows you to detect vehicles from live webcam feed or image/video files, perform OCR on Bangla & English license plates, and save structured vehicle data in a JSON file.
 
-The YOLO model is trained on the Bangladeshi Vehicle License Plate Dataset. **Kaggle Dataset:** [link](https://www.kaggle.com/datasets/sifatkhan69/bangladeshi-vehicle-license-plate/data)
+The YOLO model is trained on the **Bangladeshi Vehicle License Plate Dataset**. **Kaggle Dataset:** [link](https://www.kaggle.com/datasets/sifatkhan69/bangladeshi-vehicle-license-plate/data)
 
 - Detects **vehicles and their license plates** using a YOLO model.
 - Extracts **Bangla and English** text from license plates using EasyOCR.
