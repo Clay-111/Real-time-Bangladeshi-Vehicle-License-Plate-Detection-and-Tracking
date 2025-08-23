@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Project Overview
-A real-time license plate recognition (LPR) system built with YOLO, EasyOCR, OpenCV, and Tkinter GUI.
+A **real-time license plate recognition (LPR)** system built with YOLO, EasyOCR, OpenCV, and Tkinter GUI.
 
 This project allows you to detect vehicles from live webcam feed or image/video files, perform OCR on Bangla & English license plates, and save structured vehicle data in a JSON file.
 
