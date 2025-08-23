@@ -14,6 +14,8 @@
 ## 🚀 Project Overview
 A real-time license plate recognition (LPR) system built with YOLO, EasyOCR, OpenCV, and Tkinter GUI.
 This project allows you to detect vehicles from live webcam feed or image/video files, perform OCR on Bangla & English license plates, and save structured vehicle data in a JSON file.
+The 
+YOLO model is trained on the Bangladeshi Vehicle License Plate Dataset. **Kaggle Dataset:** [link](https://www.kaggle.com/datasets/sifatkhan69/bangladeshi-vehicle-license-plate/data)
 
 - Detects vehicles and their license plates using a YOLO model.
 - Extracts Bangla and English text from license plates using EasyOCR.
@@ -41,11 +43,11 @@ This project allows you to detect vehicles from live webcam feed or image/video 
 
 1. Start the application via main.py.
 2. Select Live Webcam or Image/Video file.
-3. Vehicle Detection: YOLO identifies vehicles and plates.
-4. OCR Extraction: EasyOCR extracts license plate text in Bangla & English.
-5. ID Assignment: Assigns a unique ID per vehicle and updates bounding boxes.
-6. Annotation: Draws bounding boxes and Unicode text on frames.
-7. Data Storage: Saves results as structured JSON with top-recognized texts.
+3. **Vehicle Detection:** YOLO identifies vehicles and plates.
+4. **OCR Extraction:** EasyOCR extracts license plate text in Bangla & English.
+5. **ID Assignment:** Assigns a unique ID per vehicle and updates bounding boxes.
+6. **Annotation:** Draws bounding boxes and Unicode text on frames.
+7. **Data Storage:** Saves results as structured JSON with top-recognized texts.
 
 ---
 
@@ -61,6 +63,6 @@ This project allows you to detect vehicles from live webcam feed or image/video 
    python main.py
 5. In the UI:
    - Click **Live Webcam** to detect plates in real-time.
-   - Click Select Image/Video to choose files for processing.
-   - Press Q to exit webcam or video playback.
+   - Click **Select Image/Video** to choose files for processing.
+   - Press **Q** to exit webcam or video playback.
 6. After processing, a vehicle_data.json file will be saved with structured vehicle IDs, bounding boxes, and top OCR texts.
