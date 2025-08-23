@@ -3,7 +3,7 @@
 
 # ⏩ Video Explanation
 
-⏩ Demo Video Link: [https://youtu.be/BMsZLLyWoKg](https://youtu.be/zjS3RVrQKiw)
+⏩ Demo Video Link: [https://youtu.be/zjS3RVrQKiw](https://youtu.be/zjS3RVrQKiw)
 
 ⏩ Download the video here: [Explanation Video.mp4](EXPLANATION.mp4).
 
