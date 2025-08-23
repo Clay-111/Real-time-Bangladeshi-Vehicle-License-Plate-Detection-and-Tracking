@@ -20,12 +20,12 @@ This project allows you to detect vehicles from live webcam feed or image/video 
 
 The YOLO model is trained on the Bangladeshi Vehicle License Plate Dataset. **Kaggle Dataset:** [link](https://www.kaggle.com/datasets/sifatkhan69/bangladeshi-vehicle-license-plate/data)
 
-- Detects vehicles and their license plates using a YOLO model.
-- Extracts Bangla and English text from license plates using EasyOCR.
-- Keeps track of multiple vehicles with ID assignment and bounding box tracking.
-- Cleans OCR results and stores the top 3 most frequently recognized texts per vehicle.
-- Draws Unicode Bangla text on frames for better visualization.
-- Saves final vehicle data in a human-readable JSON format.
+- Detects **vehicles and their license plates** using a YOLO model.
+- Extracts **Bangla and English** text from license plates using EasyOCR.
+- Keeps track of **multiple vehicles** with ID assignment and bounding box tracking.
+- Cleans **OCR results** and stores the top 3 most frequently recognized texts per vehicle.
+- Draws **Unicode Bangla text** on frames for better visualization.
+- Saves final vehicle data in a human-readable **JSON format**.
 
 ---
 
